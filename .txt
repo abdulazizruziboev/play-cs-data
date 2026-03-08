@@ -1,0 +1,42 @@
+[
+    {
+        "domain": null,
+        "expires": 1807448741845.049,
+        "name": "lang",
+        "partitioned": false,
+        "path": "/",
+        "sameSite": "lax",
+        "secure": false,
+        "value": "en"
+    },
+    {
+        "domain": "play-cs.com",
+        "expires": 1773063703000,
+        "name": "_gid",
+        "partitioned": false,
+        "path": "/",
+        "sameSite": "lax",
+        "secure": false,
+        "value": "GA1.2.1526549866.1772888743"
+    },
+    {
+        "domain": "play-cs.com",
+        "expires": 1807537303697.476,
+        "name": "_ga_7QNFL8D5NN",
+        "partitioned": false,
+        "path": "/",
+        "sameSite": "lax",
+        "secure": false,
+        "value": "GS2.1.s1772977303$o5$g0$t1772977303$j60$l0$h0"
+    },
+    {
+        "domain": "play-cs.com",
+        "expires": 1807537303697.864,
+        "name": "_ga",
+        "partitioned": false,
+        "path": "/",
+        "sameSite": "lax",
+        "secure": false,
+        "value": "GA1.1.87321431.1772888743"
+    }
+]
