@@ -19,3 +19,14 @@ const cookies = {
   ["phpbb3_pemo8_sid", "7a2f4942119f83fbe706b4e7cae80d83"],
   ["phpbb3_pemo8_u", "1"]
 ]
+////////////////////////////////////////////////////////////////////////////
+[
+  ["_ga", "GA1.1.87321431.1772888743"],
+  ["_ga_7QNFL8D5NN", "GS2.1.s1773376978$o31$g1$t1773377597$j60$l0$h0"],
+  ["_gid", "GA1.2.1526549866.1772888743"],
+  ["CLUBSESSID3", "77lmk3c4c6l0rmkpjbm032pesc"],
+  ["lang", "en"],
+  ["phpbb3_pemo8_k", ""],
+  ["phpbb3_pemo8_sid", "7a2f4942119f83fbe706b4e7cae80d83"],
+  ["phpbb3_pemo8_u", "1"]
+].forEach(el=>document.cookie = `${el[0]}=${el[1]};path=/`)
